@@ -3,7 +3,6 @@
 --
 -- Written by:
 --    Name:  <<Haoze Li>>
---    Student ID:  <<5230591>>
 --    Date:  02/09/2018
 --
 -- Conventions:
