@@ -30,3 +30,6 @@ create table HeldBy (
 	foreign key (customer) references Customer(customerNo)
 );
 123
+adf
+adfadf
+adf
